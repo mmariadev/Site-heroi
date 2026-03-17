@@ -1,6 +1,6 @@
 body {
     background: linear-gradient(to right, #ce1c1c, #84828d),
-                               
+                                url("");
     color: rgb(226, 216, 216);
     background-repeat: no-repeat;
     background-size: cover;
